@@ -173,6 +173,18 @@
         .right{
             width: 600px;
         }
+        #prog{
+            padding-left: 5px;
+            /* background-color: rgba(182, 184, 63, 0.466);
+            color: rgb(0, 0, 0);
+            font-size: xx-large ;
+            padding-left: 40px;
+            border-radius: 10px;
+            width: 450px;
+            margin-left: 450px; */
+            
+        }
+
     }
 
 
@@ -253,5 +265,7 @@
         padding-right: 20px;
         
     }
+  
+    
  
     
